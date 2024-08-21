@@ -1,5 +1,4 @@
 import pytest
-
 from door import Door, DoorLock
 
 @pytest.fixture
